@@ -43,6 +43,7 @@ int main(void)
 
    printf("%s\n", my_strcpy(p1, "Hello, World !!!"));
    printf("The silly number is: %d\n",  produce_silly_number());
+   printf("\n\n nothing is really changed \n\n");
 
    return 0;
 }
